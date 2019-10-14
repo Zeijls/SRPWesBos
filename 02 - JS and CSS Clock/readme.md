@@ -1,4 +1,3 @@
-# SRPWessBoss
 # 02 - JS and CSS Clock
 
 In de tweede les van Wes Bos heb ik geleerd om zelf een klok te maken. Ik merk dat ik nog veel moeite heb met het bijhouden van zijn tempo. 
