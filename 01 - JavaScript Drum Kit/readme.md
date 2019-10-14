@@ -1,4 +1,3 @@
-# SRPWessBoss
 # 01 - JavaScript Drum Kit
 
 In de eerste les van deze challenge is er vooral veel opgefrist. Het is een lange tijd geleden dat ik voor het laatst bezig ben geweest met JavaScript. 
