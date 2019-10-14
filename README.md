@@ -29,3 +29,19 @@ Objecten
 -	Context (this)
 
 Ik zal na iedere les aangeven wat ik heb geleerd en tot nu toe begrijp. 
+
+
+Dit is de [online url](https://zeijls.github.io/SRPWesBos/) 
+
+Per dag is er een readme te vinden met mijn reflectie.
+
+Het vak bestaat uit 3 opdrachten:
+
+1. [Opdracht 1](opdracht1/)
+2. [Opdracht 2](opdracht2/)
+3. [Opdracht 3](opdracht3/)
+
+
+---
+- [Markup cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [Getting started with GitHub Pages](https://guides.github.com/features/pages/)
