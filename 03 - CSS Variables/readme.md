@@ -1,4 +1,3 @@
-# SRPWessBoss
 # 03 - CSS Variables
 
 
