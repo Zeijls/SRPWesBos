@@ -17,6 +17,7 @@ mezelf schrijf waarin ik aangeef welke stappen ik deze dag heb
 gemaakt. Door middel van deze challenge wil ik een aantal begrippen
 gaan begrijpen;
 
+Begrippen
 Functions
 -	Scope
 -	Event Loop
