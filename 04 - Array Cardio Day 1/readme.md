@@ -2,6 +2,8 @@
 
 Map geeft je altijd het zelfde aantal items terug als je geeft.
 
+Reduce zort ervoor dat een array wordt verlaagd tot een losse waarde
+
 Begrippen
 Functions
 -	Scope
