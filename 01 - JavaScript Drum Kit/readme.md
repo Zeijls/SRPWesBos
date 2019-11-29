@@ -4,6 +4,11 @@ In de eerste les van deze challenge is er vooral veel opgefrist. Het is een lang
 
 Wat ik nieuw heb geleerd deze les is de functie removeTransistion. Ik wist hoe je een classList kon toevoegen, maar niet hoe dit werkte met het verwijderen van een classList. 
 
+Debuggen
+Fixen van errors in de code dmv. console.log
+
+
+
 Begrippen
 
 Functions
