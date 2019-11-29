@@ -8,3 +8,6 @@ if (this !== e.target) {
 			}
 			
 Verder is het begrip "this" in deze les gebruikt. Het linkt in dit verhaal naar de div hero. 
+
+${…} 
+Door het $-teken identificeert hij een object hetzelfde als een naam zou doen.
