@@ -29,3 +29,6 @@ Functions
 Objecten
 -	Object literal/constructor
 -	Context (this)
+
+[Opdracht 10](https://simonevanzeijl.github.io/SRPWesBos/10 - Hold Shift and Check Checkboxes/index-START.html/)
+[Terug naar het overzicht](https://simonevanzeijl.github.io/SRPWesBos/)
