@@ -16,3 +16,6 @@ Functions
 Objecten
 -	Object literal/constructor
 -	Context (this)
+
+[Opdracht 1](https://simonevanzeijl.github.io/SRPWesBos/02 - JS and CSS Clock/index-START.html/)
+[Terug naar het overzicht](https://simonevanzeijl.github.io/SRPWesBos/)
