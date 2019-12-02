@@ -34,5 +34,6 @@ This heeft een andere functie in verschillende context;
 
 [Demo 4 voor opdracht 1](https://simonevanzeijl.github.io/frontendvoordesigners/opdracht1/v4/)
 
-[Opdracht 1](https://simonevanzeijl.github.io/SRPWesBos/01 - JavaScript Drum Kit/index-START.html)
+[Opdracht 1](https://simonevanzeijl.github.io/SRPWesBos/01 - JavaScript Drum Kit/index-START.html/)
+[Terug naar het overzicht](https://simonevanzeijl.github.io/SRPWesBos/)
 
