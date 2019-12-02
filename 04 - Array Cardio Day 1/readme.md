@@ -28,3 +28,6 @@ Functions
 Objecten
 -	Object literal/constructor
 -	Context (this)
+
+[Opdracht 4](https://simonevanzeijl.github.io/SRPWesBos/04 - Array Cardio Day 1/index-START.html/)
+[Terug naar het overzicht](https://simonevanzeijl.github.io/SRPWesBos/)
