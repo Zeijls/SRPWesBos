@@ -21,3 +21,6 @@ Functions
 Objecten
 -	Object literal/constructor
 -	Context (this)
+
+[Opdracht 6](https://simonevanzeijl.github.io/SRPWesBos/06 - Type Ahead/index-START.html/)
+[Terug naar het overzicht](https://simonevanzeijl.github.io/SRPWesBos/)
