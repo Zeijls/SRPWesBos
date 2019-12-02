@@ -19,3 +19,6 @@ Functions
 Objecten
 -	Object literal/constructor
 -	Context (this)
+
+[Opdracht 3](https://simonevanzeijl.github.io/SRPWesBos/03 - CSS Variables/index-START.html/)
+[Terug naar het overzicht](https://simonevanzeijl.github.io/SRPWesBos/)
