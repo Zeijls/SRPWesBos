@@ -32,3 +32,7 @@ This heeft een andere functie in verschillende context;
 - In an event, this refers to the element that received the event.
 - Methods like call(), and apply() can refer this to any object.
 
+[Demo 4 voor opdracht 1](https://simonevanzeijl.github.io/frontendvoordesigners/opdracht1/v4/)
+
+[Opdracht 1](https://simonevanzeijl.github.io/SRPWesBos/01 - JavaScript Drum Kit/index-START.html)
+
