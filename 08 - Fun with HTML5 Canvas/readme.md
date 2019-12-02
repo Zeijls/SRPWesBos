@@ -21,3 +21,6 @@ Functions
 Objecten
 -	Object literal/constructor
 -	Context (this)
+
+[Opdracht 8](https://simonevanzeijl.github.io/SRPWesBos/08 - Fun with HTML5 Canvas/index-START.html/)
+[Terug naar het overzicht](https://simonevanzeijl.github.io/SRPWesBos/)
