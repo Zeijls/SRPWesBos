@@ -18,4 +18,5 @@ Objecten
 -	Context (this)
 
 [Opdracht 2](https://simonevanzeijl.github.io/SRPWesBos/02 - JS and CSS Clock/index-START.html/)
+
 [Terug naar het overzicht](https://simonevanzeijl.github.io/SRPWesBos/)
