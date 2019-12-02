@@ -15,3 +15,6 @@ Functions
 Objecten
 -	Object literal/constructor
 -	Context (this)
+
+[Opdracht 9](https://simonevanzeijl.github.io/SRPWesBos/09 - Dev Tools Domination/index-START.html/)
+[Terug naar het overzicht](https://simonevanzeijl.github.io/SRPWesBos/)
