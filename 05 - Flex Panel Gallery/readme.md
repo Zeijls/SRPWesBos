@@ -17,3 +17,6 @@ Functions
 Objecten
 -	Object literal/constructor
 -	Context (this)
+
+[Opdracht 5](https://simonevanzeijl.github.io/SRPWesBos/05 - Flex Panel Gallery/index-START.html/)
+[Terug naar het overzicht](https://simonevanzeijl.github.io/SRPWesBos/)
