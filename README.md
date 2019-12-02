@@ -38,8 +38,10 @@ Per dag is er een readme te vinden met mijn reflectie.
 
 Het vak bestaat uit 3 opdrachten:
 
+[Demo 1 voor opdracht 1](https://simonevanzeijl.github.io/frontendvoordesigners/opdracht1/v1/)
 1. [01 - JavaScript Drum Kit](01 - JavaScript Drum Kit/)
 2. [02 - JS and CSS Clock](02 - JS and CSS Clock/)
+3. [03 - CSS Variables](03 - CSS Variables/)
 3. [Opdracht 3](opdracht3/)
 
 
