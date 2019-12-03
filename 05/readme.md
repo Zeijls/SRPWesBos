@@ -1,4 +1,4 @@
-# 05. Flex-panel Gallery
+# 05 - Flex-panel Gallery
 
 Flex; 1 ~ Betekent dat dit item allemaal evenveel ruimte van de extra ruimte gebruiken.
 
@@ -18,5 +18,6 @@ Objecten
 -	Object literal/constructor
 -	Context (this)
 
-[Opdracht 5](https://simonevanzeijl.github.io/SRPWesBos/05 - Flex Panel Gallery/index-START.html/)
-[Terug naar het overzicht](https://simonevanzeijl.github.io/SRPWesBos/)
+[Opdracht 5](https://zeijls.github.io/SRPWesBos/05/index-START.html/) <br>
+
+[Terug naar het overzicht](https://zeijls.github.io/SRPWesBos/)
