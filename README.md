@@ -38,7 +38,7 @@ Per dag is er een readme te vinden met mijn reflectie.
 
 Het vak bestaat uit 3 opdrachten:
 
-1. [01 - Java Script Drum Kit](01 - Java Script Drum Kit/)
+1. [01 - Java Script Drum Kit](01 - Java Script Drum Kit/readme.md/)
 2. [02 - JS and CSS Clock](02 - JS and CSS Clock/)
 3. [03 - CSS Variables](03 - CSS Variables/)
 4. [04 - Array Cardio Day 1](04 - Array Cardio Day 1/)
