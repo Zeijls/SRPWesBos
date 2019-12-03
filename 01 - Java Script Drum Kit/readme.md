@@ -33,6 +33,8 @@ This heeft een andere functie in verschillende context;
 - Methods like call(), and apply() can refer this to any object.
 
 
-[Demo 1 voor opdracht 1](https://simonevanzeijl.github.io/SRPWesBos/01 - Java Script Drum Kit/index-START.html/)
-[Terug naar het overzicht](https://simonevanzeijl.github.io/SRPWesBos/)
+[Demo 1 voor opdracht 1](https://zeijls.github.io/SRPWesBos//01 - Java Script Drum Kit/index-START.html/) <br>
+
+[Terug naar het overzicht](https://zeijls.github.io/SRPWesBos/)
+
 
