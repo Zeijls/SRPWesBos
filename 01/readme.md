@@ -33,7 +33,7 @@ This heeft een andere functie in verschillende context;
 - Methods like call(), and apply() can refer this to any object.
 
 
-[Demo 1 voor opdracht 1](https://zeijls.github.io/SRPWesBos//01/index-START.html/) <br>
+[Opdracht 1](https://zeijls.github.io/SRPWesBos/01/index-START.html/) <br>
 
 [Terug naar het overzicht](https://zeijls.github.io/SRPWesBos/)
 
