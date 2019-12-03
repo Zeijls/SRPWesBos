@@ -1,3 +1,5 @@
+# 30 - Wack A Mole
+
 Math . Uitzoeken mogelijkheden
 
 Math.round = rond af op het dichtsbijzijnde gehele getal
@@ -29,4 +31,8 @@ Math .max = geeft het hoogste getal weer
 Math.max(0, 150, 30, 20, -8, -200);  // returns 150
 
 Math.random() = random nummer
+
+[Opdracht 30](https://zeijls.github.io/SRPWesBos/30/index-START.html/) <br>
+
+[Terug naar het overzicht](https://zeijls.github.io/SRPWesBos/)
 
