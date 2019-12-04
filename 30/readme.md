@@ -32,7 +32,7 @@ Math.max(0, 150, 30, 20, -8, -200);  // returns 150
 
 Math.random() = random nummer
 
-[Opdracht 30](https://zeijls.github.io/SRPWesBos/30/index-START.html/) <br>
+[Opdracht 30](https://zeijls.github.io/SRPWesBos/30/index-START.html) <br>
 
 [Terug naar het overzicht](https://zeijls.github.io/SRPWesBos/)
 
