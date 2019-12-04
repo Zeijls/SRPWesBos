@@ -14,6 +14,6 @@ Verder is het begrip "this" in deze les gebruikt. Het linkt in dit verhaal naar 
 ${…} 
 Door het $-teken identificeert hij een object hetzelfde als een naam zou doen.
 
-[Opdracht 16](https://zeijls.github.io/SRPWesBos/16/index-START.html/) <br>
+[Opdracht 16](https://zeijls.github.io/SRPWesBos/16/index-START.html) <br>
 
 [Terug naar het overzicht](https://zeijls.github.io/SRPWesBos/)
