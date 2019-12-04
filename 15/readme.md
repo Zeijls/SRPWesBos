@@ -24,6 +24,6 @@ wat er nu gebeurd in de file; zodra je een item toevoegd wordt deze opgeslagen i
 
 De begrippen zijn in deze lessen niet naar voren gekomen
 
-[Opdracht 15](https://zeijls.github.io/SRPWesBos/15/index-START.html/) <br>
+[Opdracht 15](https://zeijls.github.io/SRPWesBos/15/index-START.html) <br>
 
 [Terug naar het overzicht](https://zeijls.github.io/SRPWesBos/)
