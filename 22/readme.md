@@ -17,6 +17,6 @@ const coords = {
     };
 	
 	
-[Opdracht 22](https://zeijls.github.io/SRPWesBos/22/index-START.html/) <br>
+[Opdracht 22](https://zeijls.github.io/SRPWesBos/22/index-START.html) <br>
 
 [Terug naar het overzicht](https://zeijls.github.io/SRPWesBos/)
