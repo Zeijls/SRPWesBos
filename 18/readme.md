@@ -29,6 +29,6 @@ Met % houd hij bij hoeveer er over blijft.
 
 Oftwel " hoeveel blijven er over als ze door hele zijn verdeeld. "
 
-[Opdracht 18](https://zeijls.github.io/SRPWesBos/18/index-START.html/) <br>
+[Opdracht 18](https://zeijls.github.io/SRPWesBos/18/index-START.html) <br>
 
 [Terug naar het overzicht](https://zeijls.github.io/SRPWesBos/)
