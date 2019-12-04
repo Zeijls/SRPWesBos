@@ -11,6 +11,6 @@ Uitzoeken waar de cursos is als er iets is bewogen. We weten al waar de cursor i
 
 const x = e.pageX - slider.offsetLeft;
 
-[Opdracht 27](https://zeijls.github.io/SRPWesBos/27/index-START.html/) <br>
+[Opdracht 27](https://zeijls.github.io/SRPWesBos/27/index-START.html) <br>
 
 [Terug naar het overzicht](https://zeijls.github.io/SRPWesBos/)
