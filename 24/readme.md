@@ -9,6 +9,6 @@ nav.offsetTop geeft aan op hoeveel pixels de bovenkant van de navigatiebalk zich
 
 Window.scrollY geeft aan hoeveel pixels er is gescrollt. 
 
-[Opdracht 24](https://zeijls.github.io/SRPWesBos/24/index-START.html/) <br>
+[Opdracht 24](https://zeijls.github.io/SRPWesBos/24/index-START.htmls) <br>
 
 [Terug naar het overzicht](https://zeijls.github.io/SRPWesBos/)
