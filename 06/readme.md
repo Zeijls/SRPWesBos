@@ -22,6 +22,6 @@ Objecten
 -	Object literal/constructor
 -	Context (this)
 
-[Opdracht 6](https://zeijls.github.io/SRPWesBos/06/index-START.html/) <br>
+[Opdracht 6](https://zeijls.github.io/SRPWesBos/06/index-START.html) <br>
 
 [Terug naar het overzicht](https://zeijls.github.io/SRPWesBos/)
