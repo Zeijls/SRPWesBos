@@ -20,6 +20,6 @@ Let variable kan worden bijgewerkt, maar niet opnieuw opgegeven
 
 Const variable kan niet worden bijgewerkt of opnieuw worden opgegeven 
 
-[Opdracht 17](https://zeijls.github.io/SRPWesBos/17/index-START.html/) <br>
+[Opdracht 17](https://zeijls.github.io/SRPWesBos/17/index-START.html) <br>
 
 [Terug naar het overzicht](https://zeijls.github.io/SRPWesBos/)
