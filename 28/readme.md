@@ -27,6 +27,6 @@ const playbackRate = percent * (max - min) + min;
 		bar.textContent = playbackRate.toFixed(2) + "x";
 		video.playbackRate = playbackRate;
 
-[Opdracht 28](https://zeijls.github.io/SRPWesBos/28/index-START.html/) <br>
+[Opdracht 28](https://zeijls.github.io/SRPWesBos/28/index-START.html) <br>
 
 [Terug naar het overzicht](https://zeijls.github.io/SRPWesBos/)
