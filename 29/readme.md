@@ -24,7 +24,7 @@ als je input ook een naam heeft kun je het volgende doen.
 document.customForm.minutes
 (hij levert je input)
 
-[Opdracht 29](https://zeijls.github.io/SRPWesBos/29/index-START.html/) <br>
+[Opdracht 29](https://zeijls.github.io/SRPWesBos/29/index-START.html) <br>
 
 [Terug naar het overzicht](https://zeijls.github.io/SRPWesBos/)
 
