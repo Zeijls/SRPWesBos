@@ -25,6 +25,6 @@ In principe werkt het nu naar behoren alleen zodra er een h2 element of iets der
     background.classList.add('open');
 	
 	
-[Opdracht 26](https://zeijls.github.io/SRPWesBos/26/index-START.html/) <br>
+[Opdracht 26](https://zeijls.github.io/SRPWesBos/26/index-START.html) <br>
 
 [Terug naar het overzicht](https://zeijls.github.io/SRPWesBos/)
